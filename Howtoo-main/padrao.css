@@ -1,0 +1,42 @@
+body {
+    background-color:#9368c5;
+    margin: 10px;
+    padding: auto;
+  }
+  
+  .all {
+    size-adjust: auto;
+    background-color: black;
+    border: 5px solid #ff00ff;
+    text-align: center;
+    color: white;
+    padding: 20px;7
+  } 
+  
+  .esquerda {
+    float: left;
+    width: 50%;
+  }
+  
+  .direita {
+    float: right;
+    width: 50%;
+  }
+  
+  .tudo2 {
+    size-adjust: auto;
+    background-color: black;
+    border: 5px solid #0022ff;
+    text-align: center;
+    color: white;
+    padding: 20px;
+  }
+  
+  .link {
+    color:white;
+  }
+  
+  h1 {
+    text-align: center;
+    color: white;
+  }

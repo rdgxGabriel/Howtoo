@@ -1,0 +1,25 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		inteiro n1
+
+			escreva("inserira um numero inteiro positivo:")
+			leia(n1)
+		para (inteiro i = 0; i <= n1; i++)
+	{
+		escreva("\n",i)
+
+
+		se (i %2==1)
+		{
+			escreva("-Numero Impar\n")
+		}
+		senao
+		{
+			escreva("-Numero Par\n")
+		}
+	}
+	}
+}
